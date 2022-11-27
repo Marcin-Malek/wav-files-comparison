@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "arcsecond": "^5.0.0",
+    "arcsecond-binary": "^1.2.0"
+  }
+}
